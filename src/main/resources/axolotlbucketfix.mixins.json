@@ -1,0 +1,11 @@
+{
+  "required": false,
+  "minVersion": "0.8",
+  "package": "dunnewoertel.axolotlbucketfix.mixin",
+  "compatibilityLevel": "JAVA_16",
+  "client": [],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "refmap": "axolotl-bucket-fix-refmap.json"
+}
